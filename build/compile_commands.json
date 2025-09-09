@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/FlFile/cmake_planning_test/build",
+  "command": "E:\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c E:\\FlFile\\cmake_planning_test\\planning_main.cpp",
+  "file": "E:/FlFile/cmake_planning_test/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "E:/FlFile/cmake_planning_test/build",
+  "command": "E:\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c E:\\FlFile\\cmake_planning_test\\pnc_map.cpp",
+  "file": "E:/FlFile/cmake_planning_test/pnc_map.cpp",
+  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/FlFile/cmake_planning_test/build",
+  "command": "E:\\x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev0\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\planning_main.dir\\prosess.cpp.obj -c E:\\FlFile\\cmake_planning_test\\prosess.cpp",
+  "file": "E:/FlFile/cmake_planning_test/prosess.cpp",
+  "output": "CMakeFiles/planning_main.dir/prosess.cpp.obj"
+}
+]
